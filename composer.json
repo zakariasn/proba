@@ -13,6 +13,6 @@
             "email": "zakarias.norbert@webshippy.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {}
 }
